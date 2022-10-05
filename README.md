@@ -112,3 +112,5 @@ ifter that i could use sudo with no password:
 
 ### conclusion :
 using vulnerable packeges could lead to a disaster, to secure this server we could use a patched version of that package, and should not run cron tabs with root privilage to execute non protected scripts.
+
+&copy; R4V3N
